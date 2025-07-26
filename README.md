@@ -18,5 +18,5 @@ After each guess, you’ll be told whether your guess is too high, too low, or c
 
 <li>If it took more than 10 tries → 👍 Great!</li></ul>
 
-📦 Requirements
+📦 Requirements</br>
 Python 3.x
